@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.app.MainTestTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-26T19:40:14" hostname="andy-GL72-7RD" time="0.028">
+  <properties/>
+  <testcase name="multipleTest()" classname="com.app.MainTestTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
