@@ -1,5 +1,5 @@
 package com.app;
-//https://github.com/andyluo882016/myremovecheckoutfileshow
+
 public class AppShows {//
 
     public static void main(String[] args){
